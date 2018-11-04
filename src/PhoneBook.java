@@ -19,6 +19,13 @@ import java.util.regex.Matcher;
  * Also, your app should trim white spaces from the beginning and end of both name and phone number.
  * The phone number should be saved in the following format: (DDD) DDD-DDDD where D is any digit.
  * If the user enters the phone number in the wrong format, the app should fix the format automatically.
+ * 
+ * In the text area called book, you should print the names and phone numbers (sorted by the name) in
+ * the following format, e.g.:
+ * 
+ * Alice McKemzie: (645) 875-6455
+ * Bob Jankovich: (342) 356-1212
+ * 
  * Good luck.
  * 
  * @author Vitaly Ford
