@@ -11,6 +11,13 @@ import java.util.*;
  * This PhoneBook started code is a sample Java phone book application.
  * This game uses BreezeSwing framework: http://home.wlu.edu/~lambertk/BreezySwing/index.html
  * 
+ * Your assignment is to create a phone book app. When the user clicks on Add button,
+ * your app should check that the name was entered correctly and that the name is unique.
+ * Also, your app should trim white spaces from the beginning and end of both name and phone number.
+ * The phone number should be saved in the following format: (DDD) DDD-DDDD where D is any digit.
+ * If the user enters the phone number in the wrong format, the app should fix the format automatically.
+ * Good luck.
+ * 
  * @author Vitaly Ford
  *
  */
