@@ -46,7 +46,7 @@ public class PhoneBook extends GBFrame {
     
     public void buttonClicked(JButton button) {
     	// Process what happens what the user clicks on Add button
-    	
+
     }
 
     public static void main (String[] args) {
